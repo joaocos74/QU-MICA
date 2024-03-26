@@ -7,7 +7,7 @@ O aprendizado das funções orgânicas é de extrema importância no estudo da Q
 A importância da tecnologia
 No contexto atual, o uso da tecnologia tem se tornado cada vez mais relevante no ensino e aprendizado das funções orgânicas. Duas ferramentas de destaque nesse cenário são o Python e os pacotes RDKit e PyMOL.
 
-Pytho
+Python
 O Python é uma linguagem de programação versátil, de fácil compreensão e amplamente utilizada em diversas áreas, incluindo a Química. Sua sintaxe simples e poderosa torna-o ideal para a criação de algoritmos e análises de dados. No contexto do aprendizado das funções orgânicas, o Python oferece recursos para manipulação de estruturas moleculares, cálculos químicos e visualização de moléculas.
 
 RDKit
